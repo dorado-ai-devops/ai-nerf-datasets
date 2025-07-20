@@ -2,7 +2,7 @@
     "camera_angle_x": 0.6911112070083618,
     "frames": [
         {
-            "file_path": "./train/r_0",
+            "file_path": "./images/r_0",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "file_path": "./train/r_1",
+            "file_path": "./images/r_1",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "file_path": "./train/r_2",
+            "file_path": "./images/r_2",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "file_path": "./train/r_3",
+            "file_path": "./images/r_3",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -122,7 +122,7 @@
             ]
         },
         {
-            "file_path": "./train/r_4",
+            "file_path": "./images/r_4",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -152,7 +152,7 @@
             ]
         },
         {
-            "file_path": "./train/r_5",
+            "file_path": "./images/r_5",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -182,7 +182,7 @@
             ]
         },
         {
-            "file_path": "./train/r_6",
+            "file_path": "./images/r_6",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "file_path": "./train/r_7",
+            "file_path": "./images/r_7",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -242,7 +242,7 @@
             ]
         },
         {
-            "file_path": "./train/r_8",
+            "file_path": "./images/r_8",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -272,7 +272,7 @@
             ]
         },
         {
-            "file_path": "./train/r_9",
+            "file_path": "./images/r_9",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -302,7 +302,7 @@
             ]
         },
         {
-            "file_path": "./train/r_10",
+            "file_path": "./images/r_10",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -332,7 +332,7 @@
             ]
         },
         {
-            "file_path": "./train/r_11",
+            "file_path": "./images/r_11",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -362,7 +362,7 @@
             ]
         },
         {
-            "file_path": "./train/r_12",
+            "file_path": "./images/r_12",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -392,7 +392,7 @@
             ]
         },
         {
-            "file_path": "./train/r_13",
+            "file_path": "./images/r_13",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -422,7 +422,7 @@
             ]
         },
         {
-            "file_path": "./train/r_14",
+            "file_path": "./images/r_14",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -452,7 +452,7 @@
             ]
         },
         {
-            "file_path": "./train/r_15",
+            "file_path": "./images/r_15",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -482,7 +482,7 @@
             ]
         },
         {
-            "file_path": "./train/r_16",
+            "file_path": "./images/r_16",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -512,7 +512,7 @@
             ]
         },
         {
-            "file_path": "./train/r_17",
+            "file_path": "./images/r_17",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -542,7 +542,7 @@
             ]
         },
         {
-            "file_path": "./train/r_18",
+            "file_path": "./images/r_18",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -572,7 +572,7 @@
             ]
         },
         {
-            "file_path": "./train/r_19",
+            "file_path": "./images/r_19",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -602,7 +602,7 @@
             ]
         },
         {
-            "file_path": "./train/r_20",
+            "file_path": "./images/r_20",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -632,7 +632,7 @@
             ]
         },
         {
-            "file_path": "./train/r_21",
+            "file_path": "./images/r_21",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -662,7 +662,7 @@
             ]
         },
         {
-            "file_path": "./train/r_22",
+            "file_path": "./images/r_22",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -692,7 +692,7 @@
             ]
         },
         {
-            "file_path": "./train/r_23",
+            "file_path": "./images/r_23",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -722,7 +722,7 @@
             ]
         },
         {
-            "file_path": "./train/r_24",
+            "file_path": "./images/r_24",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -752,7 +752,7 @@
             ]
         },
         {
-            "file_path": "./train/r_25",
+            "file_path": "./images/r_25",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -782,7 +782,7 @@
             ]
         },
         {
-            "file_path": "./train/r_26",
+            "file_path": "./images/r_26",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -812,7 +812,7 @@
             ]
         },
         {
-            "file_path": "./train/r_27",
+            "file_path": "./images/r_27",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -842,7 +842,7 @@
             ]
         },
         {
-            "file_path": "./train/r_28",
+            "file_path": "./images/r_28",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -872,7 +872,7 @@
             ]
         },
         {
-            "file_path": "./train/r_29",
+            "file_path": "./images/r_29",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -902,7 +902,7 @@
             ]
         },
         {
-            "file_path": "./train/r_30",
+            "file_path": "./images/r_30",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -932,7 +932,7 @@
             ]
         },
         {
-            "file_path": "./train/r_31",
+            "file_path": "./images/r_31",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -962,7 +962,7 @@
             ]
         },
         {
-            "file_path": "./train/r_32",
+            "file_path": "./images/r_32",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -992,7 +992,7 @@
             ]
         },
         {
-            "file_path": "./train/r_33",
+            "file_path": "./images/r_33",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1022,7 +1022,7 @@
             ]
         },
         {
-            "file_path": "./train/r_34",
+            "file_path": "./images/r_34",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1052,7 +1052,7 @@
             ]
         },
         {
-            "file_path": "./train/r_35",
+            "file_path": "./images/r_35",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1082,7 +1082,7 @@
             ]
         },
         {
-            "file_path": "./train/r_36",
+            "file_path": "./images/r_36",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1112,7 +1112,7 @@
             ]
         },
         {
-            "file_path": "./train/r_37",
+            "file_path": "./images/r_37",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1142,7 +1142,7 @@
             ]
         },
         {
-            "file_path": "./train/r_38",
+            "file_path": "./images/r_38",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1172,7 +1172,7 @@
             ]
         },
         {
-            "file_path": "./train/r_39",
+            "file_path": "./images/r_39",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1202,7 +1202,7 @@
             ]
         },
         {
-            "file_path": "./train/r_40",
+            "file_path": "./images/r_40",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1232,7 +1232,7 @@
             ]
         },
         {
-            "file_path": "./train/r_41",
+            "file_path": "./images/r_41",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1262,7 +1262,7 @@
             ]
         },
         {
-            "file_path": "./train/r_42",
+            "file_path": "./images/r_42",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1292,7 +1292,7 @@
             ]
         },
         {
-            "file_path": "./train/r_43",
+            "file_path": "./images/r_43",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1322,7 +1322,7 @@
             ]
         },
         {
-            "file_path": "./train/r_44",
+            "file_path": "./images/r_44",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1352,7 +1352,7 @@
             ]
         },
         {
-            "file_path": "./train/r_45",
+            "file_path": "./images/r_45",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1382,7 +1382,7 @@
             ]
         },
         {
-            "file_path": "./train/r_46",
+            "file_path": "./images/r_46",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1412,7 +1412,7 @@
             ]
         },
         {
-            "file_path": "./train/r_47",
+            "file_path": "./images/r_47",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1442,7 +1442,7 @@
             ]
         },
         {
-            "file_path": "./train/r_48",
+            "file_path": "./images/r_48",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1472,7 +1472,7 @@
             ]
         },
         {
-            "file_path": "./train/r_49",
+            "file_path": "./images/r_49",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1502,7 +1502,7 @@
             ]
         },
         {
-            "file_path": "./train/r_50",
+            "file_path": "./images/r_50",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1532,7 +1532,7 @@
             ]
         },
         {
-            "file_path": "./train/r_51",
+            "file_path": "./images/r_51",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1562,7 +1562,7 @@
             ]
         },
         {
-            "file_path": "./train/r_52",
+            "file_path": "./images/r_52",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1592,7 +1592,7 @@
             ]
         },
         {
-            "file_path": "./train/r_53",
+            "file_path": "./images/r_53",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1622,7 +1622,7 @@
             ]
         },
         {
-            "file_path": "./train/r_54",
+            "file_path": "./images/r_54",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1652,7 +1652,7 @@
             ]
         },
         {
-            "file_path": "./train/r_55",
+            "file_path": "./images/r_55",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1682,7 +1682,7 @@
             ]
         },
         {
-            "file_path": "./train/r_56",
+            "file_path": "./images/r_56",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1712,7 +1712,7 @@
             ]
         },
         {
-            "file_path": "./train/r_57",
+            "file_path": "./images/r_57",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1742,7 +1742,7 @@
             ]
         },
         {
-            "file_path": "./train/r_58",
+            "file_path": "./images/r_58",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1772,7 +1772,7 @@
             ]
         },
         {
-            "file_path": "./train/r_59",
+            "file_path": "./images/r_59",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1802,7 +1802,7 @@
             ]
         },
         {
-            "file_path": "./train/r_60",
+            "file_path": "./images/r_60",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1832,7 +1832,7 @@
             ]
         },
         {
-            "file_path": "./train/r_61",
+            "file_path": "./images/r_61",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1862,7 +1862,7 @@
             ]
         },
         {
-            "file_path": "./train/r_62",
+            "file_path": "./images/r_62",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1892,7 +1892,7 @@
             ]
         },
         {
-            "file_path": "./train/r_63",
+            "file_path": "./images/r_63",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1922,7 +1922,7 @@
             ]
         },
         {
-            "file_path": "./train/r_64",
+            "file_path": "./images/r_64",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1952,7 +1952,7 @@
             ]
         },
         {
-            "file_path": "./train/r_65",
+            "file_path": "./images/r_65",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -1982,7 +1982,7 @@
             ]
         },
         {
-            "file_path": "./train/r_66",
+            "file_path": "./images/r_66",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2012,7 +2012,7 @@
             ]
         },
         {
-            "file_path": "./train/r_67",
+            "file_path": "./images/r_67",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2042,7 +2042,7 @@
             ]
         },
         {
-            "file_path": "./train/r_68",
+            "file_path": "./images/r_68",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2072,7 +2072,7 @@
             ]
         },
         {
-            "file_path": "./train/r_69",
+            "file_path": "./images/r_69",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2102,7 +2102,7 @@
             ]
         },
         {
-            "file_path": "./train/r_70",
+            "file_path": "./images/r_70",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2132,7 +2132,7 @@
             ]
         },
         {
-            "file_path": "./train/r_71",
+            "file_path": "./images/r_71",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2162,7 +2162,7 @@
             ]
         },
         {
-            "file_path": "./train/r_72",
+            "file_path": "./images/r_72",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2192,7 +2192,7 @@
             ]
         },
         {
-            "file_path": "./train/r_73",
+            "file_path": "./images/r_73",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2222,7 +2222,7 @@
             ]
         },
         {
-            "file_path": "./train/r_74",
+            "file_path": "./images/r_74",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2252,7 +2252,7 @@
             ]
         },
         {
-            "file_path": "./train/r_75",
+            "file_path": "./images/r_75",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2282,7 +2282,7 @@
             ]
         },
         {
-            "file_path": "./train/r_76",
+            "file_path": "./images/r_76",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2312,7 +2312,7 @@
             ]
         },
         {
-            "file_path": "./train/r_77",
+            "file_path": "./images/r_77",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2342,7 +2342,7 @@
             ]
         },
         {
-            "file_path": "./train/r_78",
+            "file_path": "./images/r_78",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2372,7 +2372,7 @@
             ]
         },
         {
-            "file_path": "./train/r_79",
+            "file_path": "./images/r_79",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2402,7 +2402,7 @@
             ]
         },
         {
-            "file_path": "./train/r_80",
+            "file_path": "./images/r_80",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2432,7 +2432,7 @@
             ]
         },
         {
-            "file_path": "./train/r_81",
+            "file_path": "./images/r_81",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2462,7 +2462,7 @@
             ]
         },
         {
-            "file_path": "./train/r_82",
+            "file_path": "./images/r_82",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2492,7 +2492,7 @@
             ]
         },
         {
-            "file_path": "./train/r_83",
+            "file_path": "./images/r_83",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2522,7 +2522,7 @@
             ]
         },
         {
-            "file_path": "./train/r_84",
+            "file_path": "./images/r_84",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2552,7 +2552,7 @@
             ]
         },
         {
-            "file_path": "./train/r_85",
+            "file_path": "./images/r_85",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2582,7 +2582,7 @@
             ]
         },
         {
-            "file_path": "./train/r_86",
+            "file_path": "./images/r_86",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2612,7 +2612,7 @@
             ]
         },
         {
-            "file_path": "./train/r_87",
+            "file_path": "./images/r_87",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2642,7 +2642,7 @@
             ]
         },
         {
-            "file_path": "./train/r_88",
+            "file_path": "./images/r_88",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2672,7 +2672,7 @@
             ]
         },
         {
-            "file_path": "./train/r_89",
+            "file_path": "./images/r_89",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2702,7 +2702,7 @@
             ]
         },
         {
-            "file_path": "./train/r_90",
+            "file_path": "./images/r_90",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2732,7 +2732,7 @@
             ]
         },
         {
-            "file_path": "./train/r_91",
+            "file_path": "./images/r_91",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2762,7 +2762,7 @@
             ]
         },
         {
-            "file_path": "./train/r_92",
+            "file_path": "./images/r_92",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2792,7 +2792,7 @@
             ]
         },
         {
-            "file_path": "./train/r_93",
+            "file_path": "./images/r_93",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2822,7 +2822,7 @@
             ]
         },
         {
-            "file_path": "./train/r_94",
+            "file_path": "./images/r_94",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2852,7 +2852,7 @@
             ]
         },
         {
-            "file_path": "./train/r_95",
+            "file_path": "./images/r_95",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2882,7 +2882,7 @@
             ]
         },
         {
-            "file_path": "./train/r_96",
+            "file_path": "./images/r_96",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2912,7 +2912,7 @@
             ]
         },
         {
-            "file_path": "./train/r_97",
+            "file_path": "./images/r_97",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2942,7 +2942,7 @@
             ]
         },
         {
-            "file_path": "./train/r_98",
+            "file_path": "./images/r_98",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
@@ -2972,7 +2972,7 @@
             ]
         },
         {
-            "file_path": "./train/r_99",
+            "file_path": "./images/r_99",
             "rotation": 0.012566370614359171,
             "transform_matrix": [
                 [
